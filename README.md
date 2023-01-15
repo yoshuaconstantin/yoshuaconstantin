@@ -20,7 +20,7 @@ I am Yoshua Constantin, currently working as a Software Engineer at PT. Sentra I
 ![Script](https://img.shields.io/badge/Script-Android%20Script-critical)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yoshuaconstantin&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yoshuaconstantin&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshuaconstantin&show_icons=true&layout=compact&theme=radical)
 
 
