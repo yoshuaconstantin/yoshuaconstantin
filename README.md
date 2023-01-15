@@ -2,7 +2,7 @@
 
 I am Md Rashedul Alam Anik, currently working as a Software Engineer at PT. Sentra Inovasi Solusindo, i'm trying to be Fullstack Developer both for Mobile or Website and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoshuaconstantin/)](https://www.linkedin.com/in/yoshua-constantin-63a9b0190/)
+[![Linkedin Badge](https://img.shields.io/badge/-yoshuaconstantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoshuaconstantin/)](https://www.linkedin.com/in/yoshua-constantin-63a9b0190/)
 [![Gmail Badge](https://img.shields.io/badge/-yoshuaconstantine.k@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:joshuaconstantine.k@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/yoshuaconstantin-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/joshuaconstantine.k/)
 
