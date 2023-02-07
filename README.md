@@ -26,5 +26,7 @@ I am Yoshua Constantin, currently working as a Software Engineer at PT. Sentra I
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoshuaconstantin&show_icons=true&layout=compact&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoshuaconstantin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yoshuaconstanin.yoshuaconstantin)
