@@ -10,6 +10,7 @@ I am Yoshua Constantin, currently working as a Software Engineer at PT. Sentra I
 ## ⚡ Technologies
 
 ![Flutter](https://img.shields.io/badge/Flutter-IOS%2FAndroid%20Dev-blue)
+![GoLang](https://img.shields.io/badge/Go%20Lang-API-blue)
 ![HTML](https://img.shields.io/badge/HTML-Simple%20Web-red)
 ![PHP](https://img.shields.io/badge/PHP-Junior%20Web%20Dev-Green)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
